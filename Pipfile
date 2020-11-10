@@ -14,6 +14,7 @@ django-admin-filter = "*"
 django-suit = "*"
 markdown = "*"
 django-debug-toolbar = "*"
+pillow = "*"
 
 [dev-packages]
 flake8 = "*"
