@@ -1,4 +1,3 @@
-from typing import List
 from model_utils.models import UUIDModel, TimeStampedModel
 from django.db import models
 

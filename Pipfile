@@ -17,6 +17,7 @@ django-debug-toolbar = "*"
 pillow = "*"
 django-admin-search = "*"
 django-utils2 = "*"
+exifread = "*"
 
 [dev-packages]
 flake8 = "*"
